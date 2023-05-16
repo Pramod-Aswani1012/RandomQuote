@@ -50,7 +50,7 @@
 
    #btn {
        position: absolute;
-       bottom: 11.2rem;
+       bottom: 13rem;
        /* border: hidden; */
        font-weight: bold;
        font-size: 1.5em;
@@ -66,7 +66,7 @@
    }
 
    #a {
-       top: 29.5em;
+       top: 33em;
        position: absolute;
        right: 34em;
    }
